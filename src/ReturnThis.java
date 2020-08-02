@@ -16,7 +16,7 @@ public class ReturnThis {
 
 
 class B1{
-	public B1 print() {
+	public B3 print() {
 		System.out.println("Print 1");
 		return this;
 	}
